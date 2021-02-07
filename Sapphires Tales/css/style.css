@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+
+.main{
+    margin: auto;
+}
+
+.header-name{
+    font-family: 'Allura', cursive;
+    font-size: 10rem;
+    color: #005288;
+}
+
+.logo-image{
+    width: 8vw;
+    margin: 50px auto;
+    
+}
+
+.submit-button{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.submit-button:hover{
+    color: white;
+}
+
+.sub-main{
+    margin: 75px;
+}
+
+#footer{
+    display: inline-block;
+    position: relative;
+    top: 200px;
+}
+#footer i{
+    padding: 25px 30px;
+    font-size: 1.3rem;
+    color: #005288;
+}
+
+#footer i:hover{
+    font-size: 1.6rem;
+}
